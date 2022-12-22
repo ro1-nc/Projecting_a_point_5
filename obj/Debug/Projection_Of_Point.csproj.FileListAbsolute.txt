@@ -1,0 +1,14 @@
+D:\Geometry Assignments\Projection_Of_Point\bin\Debug\Projection_Of_Point.exe.config
+D:\Geometry Assignments\Projection_Of_Point\bin\Debug\Projection_Of_Point.exe
+D:\Geometry Assignments\Projection_Of_Point\bin\Debug\Projection_Of_Point.pdb
+D:\Geometry Assignments\Projection_Of_Point\obj\Debug\Projection_Of_Point.csprojAssemblyReference.cache
+D:\Geometry Assignments\Projection_Of_Point\obj\Debug\Projection_Of_Point.csproj.CoreCompileInputs.cache
+D:\Geometry Assignments\Projection_Of_Point\obj\Debug\Projection_Of_Point.exe
+D:\Geometry Assignments\Projection_Of_Point\obj\Debug\Projection_Of_Point.pdb
+D:\Geometry Assignments\Projection_Of_Point_5\bin\Debug\Projection_Of_Point.exe.config
+D:\Geometry Assignments\Projection_Of_Point_5\bin\Debug\Projection_Of_Point.exe
+D:\Geometry Assignments\Projection_Of_Point_5\bin\Debug\Projection_Of_Point.pdb
+D:\Geometry Assignments\Projection_Of_Point_5\obj\Debug\Projection_Of_Point.csprojAssemblyReference.cache
+D:\Geometry Assignments\Projection_Of_Point_5\obj\Debug\Projection_Of_Point.csproj.CoreCompileInputs.cache
+D:\Geometry Assignments\Projection_Of_Point_5\obj\Debug\Projection_Of_Point.exe
+D:\Geometry Assignments\Projection_Of_Point_5\obj\Debug\Projection_Of_Point.pdb
