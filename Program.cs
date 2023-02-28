@@ -26,10 +26,10 @@ namespace Projection_Of_Point
                 double C2 = -(B2 * user_pt[1] - A2 * user_pt[0]);
 
                 //standard form coefficinets
-                double x=(B1*C2-B2*C1)/(B2*A1-B1*A2);
-                double y=(C1*A2-C2*A1)/(B2*A1-B1*A2);
+                double x = (B2 * C1 - B1 * C2) / (B2 * A1 - B1 * A2);
+                double y = (C1 * A2 - C2 * A1) / (B2 * A1 - B1 * A2);
 
-                return "Coordinates of point of projection on line is "+x+" , "+y;
+                return "Coordinates of point of projection on line is " + x + " , " + y;
             }
         }
         static void Main(string[] args)
